@@ -1,4 +1,4 @@
-## vitejs-conditional-config
+## vite-conditional-config
 
 ### How to use
 
