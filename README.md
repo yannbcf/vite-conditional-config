@@ -8,4 +8,4 @@ If you insert a wrong / unknown config mode argument the process will exit and b
 
 ### Colorette dependency
 
-I allowed myself to use it since it is a vitejs dependency anyway, no worries
+I allowed myself to use it since it is a vite dependency anyway, no worries
