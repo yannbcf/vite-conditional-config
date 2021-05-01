@@ -50,7 +50,7 @@ class Configs {
     }
 }
 
-const arg = process.env.npm_config_config;
+const arg = process.env.npm_config_mode;
 const config = new ConfigHandler();
 
 export default defineConfig(config.get(arg));
